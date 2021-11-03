@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="selection_chars" translatable="false">Chars</string>
+    <string name="selection_words" translatable="false">Words</string>
+    <string name="selection_numbers" translatable="false">Numbers</string>
+    <string-array name="selection_options">
+        <item>Chars</item>
+        <item>Words</item>
+        <item>Numbers</item>
+    </string-array>
+</resources>
